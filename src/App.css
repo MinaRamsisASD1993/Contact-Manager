@@ -1,0 +1,11 @@
+i.dropDownIcon {
+  font-size: 24px;
+  margin-left: 6px;
+  cursor: pointer;
+}
+i.deleteIcon {
+  font-size: 24px;
+  float: right;
+  cursor: pointer;
+  color: red;
+}
